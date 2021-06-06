@@ -9,3 +9,5 @@ Harici Font dosyası içermez. Sitenizde kullanılan Font dosyasını kullanır.
 Harici JavaScript kütüphanelerine bağımlılığı yoktur.
 WebMaster'lar tabloya, CSS kullanarak sitelerine göre şekiil verebilirler.
 Karmaşık kod içermez ve Majör para birimlerini sunar.
+
+<div id="kurlar"></div><script async src="https://dovizmix.com/dovizmix/js/dovizwidget.min.js" type="text/javascript" charset="utf-8"></script>
